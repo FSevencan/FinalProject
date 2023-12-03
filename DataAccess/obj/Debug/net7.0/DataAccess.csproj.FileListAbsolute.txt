@@ -1,0 +1,49 @@
+C:\Users\SEVENCAN\source\repos\MyFinalProject\DataAccess\bin\Debug\net7.0\DataAccess.deps.json
+C:\Users\SEVENCAN\source\repos\MyFinalProject\DataAccess\bin\Debug\net7.0\DataAccess.dll
+C:\Users\SEVENCAN\source\repos\MyFinalProject\DataAccess\bin\Debug\net7.0\DataAccess.pdb
+C:\Users\SEVENCAN\source\repos\MyFinalProject\DataAccess\bin\Debug\net7.0\Entities.dll
+C:\Users\SEVENCAN\source\repos\MyFinalProject\DataAccess\bin\Debug\net7.0\Entities.pdb
+C:\Users\SEVENCAN\source\repos\MyFinalProject\DataAccess\obj\Debug\net7.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\SEVENCAN\source\repos\MyFinalProject\DataAccess\obj\Debug\net7.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEVENCAN\source\repos\MyFinalProject\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\SEVENCAN\source\repos\MyFinalProject\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfo.cs
+C:\Users\SEVENCAN\source\repos\MyFinalProject\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\SEVENCAN\source\repos\MyFinalProject\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CopyComplete
+C:\Users\SEVENCAN\source\repos\MyFinalProject\DataAccess\obj\Debug\net7.0\DataAccess.dll
+C:\Users\SEVENCAN\source\repos\MyFinalProject\DataAccess\obj\Debug\net7.0\refint\DataAccess.dll
+C:\Users\SEVENCAN\source\repos\MyFinalProject\DataAccess\obj\Debug\net7.0\DataAccess.pdb
+C:\Users\SEVENCAN\source\repos\MyFinalProject\DataAccess\obj\Debug\net7.0\ref\DataAccess.dll
+C:\Users\SEVENCAN\Desktop\MyFinalProject\DataAccess\bin\Debug\net7.0\DataAccess.deps.json
+C:\Users\SEVENCAN\Desktop\MyFinalProject\DataAccess\bin\Debug\net7.0\DataAccess.dll
+C:\Users\SEVENCAN\Desktop\MyFinalProject\DataAccess\bin\Debug\net7.0\DataAccess.pdb
+C:\Users\SEVENCAN\Desktop\MyFinalProject\DataAccess\bin\Debug\net7.0\Entities.dll
+C:\Users\SEVENCAN\Desktop\MyFinalProject\DataAccess\bin\Debug\net7.0\Entities.pdb
+C:\Users\SEVENCAN\Desktop\MyFinalProject\DataAccess\obj\Debug\net7.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\SEVENCAN\Desktop\MyFinalProject\DataAccess\obj\Debug\net7.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEVENCAN\Desktop\MyFinalProject\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\SEVENCAN\Desktop\MyFinalProject\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfo.cs
+C:\Users\SEVENCAN\Desktop\MyFinalProject\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\SEVENCAN\Desktop\MyFinalProject\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CopyComplete
+C:\Users\SEVENCAN\Desktop\MyFinalProject\DataAccess\obj\Debug\net7.0\DataAccess.dll
+C:\Users\SEVENCAN\Desktop\MyFinalProject\DataAccess\obj\Debug\net7.0\refint\DataAccess.dll
+C:\Users\SEVENCAN\Desktop\MyFinalProject\DataAccess\obj\Debug\net7.0\DataAccess.pdb
+C:\Users\SEVENCAN\Desktop\MyFinalProject\DataAccess\obj\Debug\net7.0\ref\DataAccess.dll
+C:\Users\SEVENCAN\Desktop\Tobeto Ders Dosyaları\MyFinalProject\DataAccess\bin\Debug\net7.0\DataAccess.deps.json
+C:\Users\SEVENCAN\Desktop\Tobeto Ders Dosyaları\MyFinalProject\DataAccess\bin\Debug\net7.0\DataAccess.dll
+C:\Users\SEVENCAN\Desktop\Tobeto Ders Dosyaları\MyFinalProject\DataAccess\bin\Debug\net7.0\DataAccess.pdb
+C:\Users\SEVENCAN\Desktop\Tobeto Ders Dosyaları\MyFinalProject\DataAccess\bin\Debug\net7.0\Entities.dll
+C:\Users\SEVENCAN\Desktop\Tobeto Ders Dosyaları\MyFinalProject\DataAccess\bin\Debug\net7.0\Entities.pdb
+C:\Users\SEVENCAN\Desktop\Tobeto Ders Dosyaları\MyFinalProject\DataAccess\obj\Debug\net7.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\SEVENCAN\Desktop\Tobeto Ders Dosyaları\MyFinalProject\DataAccess\obj\Debug\net7.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEVENCAN\Desktop\Tobeto Ders Dosyaları\MyFinalProject\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\SEVENCAN\Desktop\Tobeto Ders Dosyaları\MyFinalProject\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfo.cs
+C:\Users\SEVENCAN\Desktop\Tobeto Ders Dosyaları\MyFinalProject\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\SEVENCAN\Desktop\Tobeto Ders Dosyaları\MyFinalProject\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CopyComplete
+C:\Users\SEVENCAN\Desktop\Tobeto Ders Dosyaları\MyFinalProject\DataAccess\obj\Debug\net7.0\DataAccess.dll
+C:\Users\SEVENCAN\Desktop\Tobeto Ders Dosyaları\MyFinalProject\DataAccess\obj\Debug\net7.0\refint\DataAccess.dll
+C:\Users\SEVENCAN\Desktop\Tobeto Ders Dosyaları\MyFinalProject\DataAccess\obj\Debug\net7.0\DataAccess.pdb
+C:\Users\SEVENCAN\Desktop\Tobeto Ders Dosyaları\MyFinalProject\DataAccess\obj\Debug\net7.0\ref\DataAccess.dll
+C:\Users\SEVENCAN\Desktop\Tobeto Ders Dosyaları\MyFinalProject\DataAccess\bin\Debug\net7.0\Core.dll
+C:\Users\SEVENCAN\Desktop\Tobeto Ders Dosyaları\MyFinalProject\DataAccess\bin\Debug\net7.0\Core.pdb
+C:\Users\SEVENCAN\Desktop\Tobeto Ders Dosyaları\MyFinalProject\DataAccess\bin\Debug\net7.0\DataAccess.runtimeconfig.json
+C:\Users\SEVENCAN\Desktop\Tobeto Ders Dosyaları\MyFinalProject\DataAccess\obj\Debug\net7.0\DataAccess.genruntimeconfig.cache
